@@ -13,17 +13,17 @@
 
 ## 概览
 + 登录页面
-  ![image](https://github.com/featherL/web_file_manager_v1.0/raw/dev/screenshots/login.png)
+  ![image](https://github.com/guoyuh/web_file_manager_v1.0/raw/dev/screenshots/login.png)
 + 主页
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/index.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/index.png)
 + 新建文件
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/new_dir.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/new_dir.png)
 + 上传文件
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/upload.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/upload.png)
 + 点击文件右端的复制按钮(**鼠标停留在按钮上有提示**)
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/copy.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/copy.png)
 + 画图工具
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/img_tools.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/img_tools.png)
 + stackplot
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/stackplot.png)
+  ![image](https://github.com/guoyuh/web_file_manager/raw/master/screenshots/stackplot.png)
 + ......
