@@ -13,7 +13,7 @@
 
 ## 概览
 + 登录页面
-  ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/login.png)
+  ![image](https://github.com/featherL/web_file_manager_v1.0/raw/dev/screenshots/login.png)
 + 主页
   ![image](https://github.com/featherL/web_file_manager/raw/master/screenshots/index.png)
 + 新建文件
