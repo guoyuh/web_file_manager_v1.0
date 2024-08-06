@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web_file_manager_v1.0
 由**flask**与**bootstarp**开发而成的简单的web在线文件管理工具
 
@@ -27,3 +28,6 @@
 + stackplot
   ![image](https://github.com/guoyuh/web_file_manager_v1.0/raw/master/screenshots/stackplot.png)
 + ......
+=======
+# web_file_manager_v1.0
+>>>>>>> cf7a18c7bd278c664e8fbcc0f2a4c67095401f43
